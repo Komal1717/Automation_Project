@@ -1,5 +1,9 @@
 # 🚀 Automation Test Framework (Selenium + TestNG + Maven)
 
+![CI](https://github.com/Komal1717/Automation_Project/actions/workflows/run-tests.yml/badge.svg)
+
+
+
 A robust, scalable, and CI-ready automation framework built using **Java**, **Selenium WebDriver**, **TestNG**, and **Maven**.  
 Designed using the **Page Object Model (POM)** to keep tests clean, maintainable, and easy to extend.
 
